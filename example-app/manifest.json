@@ -1,0 +1,20 @@
+{
+	"name": "LaravelPWA",
+	"short_name": "LaravelPWA",
+	"description": "LaravelPWA",
+	"background_color": "#FFF",
+	"theme_color": "#10161F",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./resources/views/welcome.blade.php?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang": "es-MX",
+	"icons":[
+		{
+			"src": "",
+			"sizes": "430x197",
+			"type": "image/png"
+		}
+	]
+}
+
